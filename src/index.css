@@ -1,0 +1,26 @@
+body{
+    background-color: slategrey;
+    color: white;
+}
+
+.front{
+    background-image: url('https://thumbs.dreamstime.com/b/fondo-rojo-de-la-cubierta-del-grunge-del-papel-viejo-del-naipe-34410513.jpg');
+    height: 400px;
+    width: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    object-fit: scale-down;
+}
+
+.back{
+    background-image: url('https://thumbs.dreamstime.com/b/empty-playing-card-paper-background-line-isolated-white-35082364.jpg');
+    height: 400px;
+    width: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    object-fit: scale-down;
+}
